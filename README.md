@@ -1,1 +1,1 @@
-This was my first coding project that I created on my own. I practiced using key concepts in programming such as input, output, variables, loops, lists, and strings.
+This was my first coding project that I created on my own. I practiced using key concepts in programming such as input, output, variables, loops, lists, and strings. In this code, I refer to Petey who's one of the mascots at the University of Central Florida.
